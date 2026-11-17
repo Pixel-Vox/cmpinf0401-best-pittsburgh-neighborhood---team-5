@@ -7,7 +7,7 @@ The best neighborhood in Pittsburgh
 ---
 
 ## Team Information
-* **Team Name:** [Insert Team Name]
+* **Team Name:** PittStop
 * **Canvas Group Number:** Final Project Group 5
 
 ### Team Members & Notebook Ownership
